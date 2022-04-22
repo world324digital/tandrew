@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Flutter View</string>
+  <string name="title">Flutter Application</string>
+  <string name="button_tap">Flutter button tapped 0 times.</string>
+  <string name="android">Android</string>
+  <!-- <string name="mapbox_access_token">pk.eyJ1Ijoic2FrdXJhMDEyMiIsImEiOiJja3pmNWRpNngwbnE5MnFucjB0cDF5d2FvIn0.hnUoc32-UKeQE8gLTdyd8g</string> -->
+</resources>

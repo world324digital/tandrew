@@ -1,0 +1,9 @@
+style
+
+
+    background-color: rgb(85, 144, 151);
+    background-image: linear-gradient(to right bottom, rgba(19, 78, 94, 1), rgba(19, 78, 94, 0));
+
+
+button color
+   rgba(85, 144, 151, 1);

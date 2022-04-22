@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "422834493544",
+    "firebase_url": "https://project-flugio.firebaseio.com",
+    "project_id": "project-flugio",
+    "storage_bucket": "project-flugio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422834493544:android:fd2c2e20ea53b6c17a83dd",
+        "android_client_info": {
+          "package_name": "com.flugio.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422834493544-lvgfgu2ptj01gsgs20qrfrb5b0j2s33a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZUK7PREsaN7RFVEyW2J-q1V0rasiIM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422834493544-jo9u30c2kpf14unqvagdrltlc10vfu3i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "422834493544-54li0rtgmind24ra623bc34n34ca4sk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flugio.concierge",
+                "app_store_id": "90813282"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
